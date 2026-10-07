@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Command Taverna/Command Taverna.vcxproj" />
+  <Project Path="Command Taverna/Command Taverna.vcxproj" Id="fd0fd545-49a5-4328-a3ab-c06fb1cfc311" />
 </Solution>

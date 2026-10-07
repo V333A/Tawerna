@@ -5,11 +5,15 @@ using namespace std;
 void printTitle()
 {
     cout << "=== ТАВЕРНА ===" << endl;
+    cout << "Таверна для всех" << endl;
 }
 
 void printGreeting()
 {
     // TODO Collaborator
+    cout << "Добро пожаловать в таверну" << endl;
+    cout << "Сегодня будет весело" << endl;
+    cout << endl;
 }
 
 void printMenu()
