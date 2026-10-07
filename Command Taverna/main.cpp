@@ -4,12 +4,11 @@ using namespace std;
 
 void printTitle()
 {
-<<<<<<< HEAD
-    cout << "=== ТАВЕРНА 'ЗОЛОТИЙ ДРАКОН' ===" << endl;
-=======
+
+
     cout << "=== ТАВЕРНА ===" << endl;
     cout << "Таверна для всех" << endl;
->>>>>>> origin/new_greeting
+
 }
 
 void printGreeting()
