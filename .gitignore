@@ -1,0 +1,9 @@
+.vs/
+*.user
+*.suo
+x64/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+*.log
